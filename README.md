@@ -2,3 +2,5 @@
 
 ### Author
 Rory White
+
+Solving merge conflicts is soooooo hard!
